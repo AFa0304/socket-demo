@@ -44,7 +44,7 @@ node app.js
 The client webpage will be accessible at http://localhost:3000.
 
 
-# Notes
+## Notes
 * Make sure to follow the steps in sequence for successful setup.
 * The WebSocket server is configured to listen on http://localhost:3005.
 * The client web server can be accessed at http://localhost:3000.
